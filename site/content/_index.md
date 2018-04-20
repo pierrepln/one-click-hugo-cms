@@ -1,6 +1,6 @@
 ---
-title: Some bang! bang! title
-subtitle: smoking hot slogan/subtitle easily authorable
+title: BANG! BANG!
+subtitle: Big title - smoking hot subtitle easily authorable
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Check the blurb
