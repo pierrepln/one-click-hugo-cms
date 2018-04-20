@@ -43,6 +43,6 @@ products:
 values:
   heading: Our values
   image: /img/thedarwinproject_large02.jpg
-  text: You know the drill
+  text: You know the drill. You know the drill. You know the drill.
 ---
 
