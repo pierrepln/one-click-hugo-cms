@@ -42,6 +42,7 @@ products:
       about your story, let the dream come true.
 values:
   heading: Our values
+  image: /img/thedarwinproject_large02.jpg
   text: You know the drill
 ---
 
