@@ -1,7 +1,7 @@
 ---
 title: BANG! BANG!
 subtitle: Big title - smoking hot subtitle easily authorable
-image: /img/home-jumbotron.jpg
+image: /img/thedarwinproject_large01.jpg
 blurb:
   heading: Check the blurb
   text: >-
